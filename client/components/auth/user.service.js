@@ -21,7 +21,7 @@ function UserResource($resource) {
   });
 }
 
-angular.module('angularFullstackAppApp.auth')
+angular.module('angularFullstackApp.auth')
   .factory('User', UserResource);
 
 })();

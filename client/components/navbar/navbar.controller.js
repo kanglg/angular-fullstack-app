@@ -17,5 +17,5 @@ class NavbarController {
   }
 }
 
-angular.module('angularFullstackAppApp')
+angular.module('angularFullstackApp')
   .controller('NavbarController', NavbarController);

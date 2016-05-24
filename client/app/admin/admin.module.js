@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularFullstackAppApp.admin', [
-  'angularFullstackAppApp.auth',
+angular.module('angularFullstackApp.admin', [
+  'angularFullstackApp.auth',
   'ui.router'
 ]);

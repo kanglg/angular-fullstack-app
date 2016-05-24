@@ -29,5 +29,5 @@ class LoginController {
   }
 }
 
-angular.module('angularFullstackAppApp')
+angular.module('angularFullstackApp')
   .controller('LoginController', LoginController);

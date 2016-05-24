@@ -1,9 +1,9 @@
 'use strict';
 
-angular.module('angularFullstackAppApp', [
-  'angularFullstackAppApp.auth',
-  'angularFullstackAppApp.admin',
-  'angularFullstackAppApp.constants',
+angular.module('angularFullstackApp', [
+  'angularFullstackApp.auth',
+  'angularFullstackApp.admin',
+  'angularFullstackApp.constants',
   'ngCookies',
   'ngResource',
   'ngSanitize',

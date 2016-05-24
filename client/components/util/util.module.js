@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('angularFullstackAppApp.util', []);
+angular.module('angularFullstackApp.util', []);

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularFullstackAppApp')
+angular.module('angularFullstackApp')
   .config(function($stateProvider) {
     $stateProvider
       .state('login', {

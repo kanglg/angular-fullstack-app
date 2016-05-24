@@ -27,6 +27,7 @@ export function index(req, res) {
   return User.find({}, '-salt -password').exec()
     .then(users => {
       res.status(200).json(users);
+      return null;
     })
     .catch(handleError(res));
 }

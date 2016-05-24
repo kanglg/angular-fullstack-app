@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('angularFullstackAppApp.auth', [
-  'angularFullstackAppApp.constants',
-  'angularFullstackAppApp.util',
+angular.module('angularFullstackApp.auth', [
+  'angularFullstackApp.constants',
+  'angularFullstackApp.util',
   'ngCookies',
   'ui.router'
 ])

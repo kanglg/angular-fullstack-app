@@ -39,5 +39,5 @@ class SignupController {
   }
 }
 
-angular.module('angularFullstackAppApp')
+angular.module('angularFullstackApp')
   .controller('SignupController', SignupController);

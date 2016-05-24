@@ -1,5 +1,5 @@
 (function(angular, undefined) {
-  angular.module("angularFullstackAppApp.constants", [])
+  angular.module("angularFullstackApp.constants", [])
 
 .constant("appConfig", {
 	"userRoles": [
